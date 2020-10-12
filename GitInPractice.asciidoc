@@ -1,1 +1,2 @@
 This is a test file that is being used while understanding how git works.
+This is a test entry
